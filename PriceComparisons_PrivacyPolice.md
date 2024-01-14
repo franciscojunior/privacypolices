@@ -2,7 +2,7 @@
 
 Welcome to the Price Comparisons app for Android!
 
-This is an Android app developed by Francisco Figueiredo Junior. The app is also available on Google Play: https://play.google.com/store/apps/details?id=chicosoft.pricecomparisons
+This is an Android app developed by Francisco Figueiredo Jr. The app is also available on Google Play: https://play.google.com/store/apps/details?id=chicosoft.pricecomparisons
 
 I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
